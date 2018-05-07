@@ -3,4 +3,4 @@ just another repository
 
 hi, GitHub
 
-i am maegot.nice to meet you.
+i am margot.nice to meet you.
